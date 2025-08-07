@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+	<id>@@NAME@@.desktop</id>
+	<metadata_license>@@LICENSE@@</metadata_license>
+	<project_license>@@LICENSE@@</project_license>
+	<name>@@NAME_LONG@@</name>
+	<url type="homepage">https://github.com/sunnystark/stark-ai-editor</url>
+	<summary>Stark AI Code Editor. Advanced AI-powered development environment.</summary>
+	<description>
+		<p>Stark AI Code Editor is a powerful development environment that combines the simplicity of a code editor with advanced AI capabilities. Built on top of VS Code, it provides an enhanced coding experience with intelligent features and modern development tools.</p>
+	</description>
+	<screenshots>
+		<screenshot type="default">
+			<image>https://code.visualstudio.com/home/home-screenshot-linux-lg.png</image>
+			<caption>Editing TypeScript and searching for extensions</caption>
+		</screenshot>
+	</screenshots>
+</component>
